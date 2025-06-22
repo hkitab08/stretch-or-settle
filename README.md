@@ -22,4 +22,3 @@ In baseball, split-second decisions on the basepaths can make a major impact. Wh
 - (Optional) Video or visual validation of high-probability but unrealized doubles
 
 ## 📁 Project Structure
-
